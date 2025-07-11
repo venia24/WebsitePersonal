@@ -1,0 +1,66 @@
+/* Header */
+.header {
+    background-color: #f8c8dc; /* soft pink */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    letter-spacing: 2px;
+  }
+  
+  .header p {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
+  /* Sidebar Styles */
+  .sidebar {
+    background-color: #fbeff5; /* lebih soft pink */
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .sidebar h3 {
+    font-size: 1.4em;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-table a:hover {
+    color: #d672a3; /* pink lebih gelap untuk hover */
+    transition: color 0.3s;
+  }
+  
+  /* Blog Post */
+  .blog-post h3 {
+    font-size: 1.8em;
+    color: #d672a3; /* pink cerah */
+    margin-bottom: 10px;
+  }
+  
+  .blog-post a {
+    color: #d672a3;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .blog-post a:hover {
+    text-decoration: underline;
+    color: #b85687;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #f8c8dc; /* soft pink */
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+  }
+  
